@@ -33,3 +33,18 @@ The project focuses on clean class design, encapsulation using private fields, a
 3. Open the browser console to watch the duel  
 
 ## 📂 Project Structure
+wizard-duel/
+├── wizard.html
+├── wizard.js
+└── README.md
+# 🔮 Future Improvements (TODO)
+
+- Add visual UI instead of console
+- Add more wizard types
+- Add sound effects
+- Add spell cooldown system
+- Add health/mana bars
+
+## 👩‍💻 Author
+
+Dana Bazlamet
